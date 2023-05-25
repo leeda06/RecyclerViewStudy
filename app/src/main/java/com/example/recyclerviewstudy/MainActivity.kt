@@ -53,5 +53,6 @@ class MainActivity : AppCompatActivity() {
         listView.adapter = ListAdapter(data)
         //listView.setAdapter(ListAdapter(data))
 
+        //
     }
 }
